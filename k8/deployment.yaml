@@ -13,7 +13,7 @@ spec:
         run: demo
     spec:
       containers:
-      - image: nginx:latest
+      - image: gcr.io/ninth-bonito-276003/everistest:tag1
         imagePullPolicy: IfNotPresent
         name: demo
         ports:

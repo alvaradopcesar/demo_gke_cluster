@@ -1,5 +1,5 @@
 
-# Launch Cluster and Application to Google Cloud
+# Launch Cluster and Application in Google Cloud
 ## Installation Prerequisites
 
 Google Cloud Account
@@ -32,3 +32,6 @@ $ make destroy_cloud
 
 ## Launch Demo Application
 
+https://{ip}/greetings
+
+https://{ip}/square/10

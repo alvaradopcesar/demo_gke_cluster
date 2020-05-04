@@ -3,9 +3,9 @@
 ## Installation Prerequisites
 ```
 Google Cloud Account
-https://cloud.google.com/docs/authentication/getting-started
-get te json with credential y copy in terraform directory 
-service-account.json will be the name.
+[https://cloud.google.com/docs/authentication/getting-started] (https://cloud.google.com/docs/authentication/getting-started) 
+
+Get json with credential y copy in terraform directory as service-account.json.
 ```
 
 
